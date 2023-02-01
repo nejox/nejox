@@ -2,7 +2,7 @@
 
 🤖🧠👨🏻‍💻 M. Sc. AI Student with a computer science and software engineering background.
 
-📫 (mailto:schmidtjochen@gmx.net "Email")
+📫 [Reach out!](mailto:schmidtjochen@gmx.net "Email")
 
 <!--
 **nejox/nejox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
