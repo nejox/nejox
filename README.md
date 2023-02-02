@@ -4,7 +4,7 @@
 
 📫 [Reach out!](mailto:schmidtjochen@gmx.net "Email")
 
-🌐 [nejox.github.io](https://www.nejox.github.io "Website")
+🌐 [nejox.github.io](https://nejox.github.io/ "Website")
 <!--
 **nejox/nejox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
