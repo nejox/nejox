@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🤖🧠👨🏻‍💻 ML Engineer with a 🫀for software engineering & design.
+🤖🧠👨🏻‍💻 ML Engineer with a 🫀 for software engineering & design.
 
 📫 [Reach out!](mailto:schmidtjochen@gmx.net "Email")
 
