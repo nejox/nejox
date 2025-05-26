@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🤖🧠👨🏻‍💻 M. Sc. AI Student with a computer science and software engineering background.
+🤖🧠👨🏻‍💻 ML Engineer with a 🫀for software engineering & design.
 
 📫 [Reach out!](mailto:schmidtjochen@gmx.net "Email")
 
