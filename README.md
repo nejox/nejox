@@ -1,21 +1,8 @@
-### Hello there 👋
+### Hi, I'm Jochen
 
-🤖🧠👨🏻‍💻 ML Engineer with a 🫀 for software engineering & design.
+Senior Machine Learning Engineer in Munich. I lead demand forecasting at
+[AIPERIA](https://aiperia.com/en): the models, the ML platform they run on
+and the engineering standards around them. I also bring agentic development
+into our day-to-day work.
 
-📫 [Reach out!](mailto:schmidtjochen@gmx.net "Email")
-
-🌐 [nejox.github.io](https://nejox.github.io/ "Website")
-<!--
-**nejox/nejox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://nejox.github.io) · [LinkedIn](https://www.linkedin.com/in/jochen-schmidt96/) · [Email](mailto:schmidtjochen@gmx.net)
